@@ -1,0 +1,51 @@
+{
+	"info": {
+		"_postman_id": "f7d71c34-b01b-4a6c-94c4-f1d3c8dfa4cb",
+		"name": "Shopify API testing",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "43873929",
+		"_collection_link": "https://salma-4921719.postman.co/workspace/9a1c5cff-86f7-403e-84c9-3c14dd979671/collection/43873929-f7d71c34-b01b-4a6c-94c4-f1d3c8dfa4cb?action=share&source=collection_link&creator=43873929"
+	},
+	"item": [
+		{
+			"name": "Products",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Orders",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Customers",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Post Product",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Unauthorized",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
